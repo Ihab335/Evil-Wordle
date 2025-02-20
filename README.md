@@ -1,6 +1,6 @@
-## Wordle Evilizer: The Ultimate Challenge
+## Evil Wordle
 
-Welcome to the **Wordle Evilizer**, a program designed to make your Wordle experience as challenging as possible by choosing the hardest words for you to guess. This tool takes a list of potential secret words and your initial guess, and uses the feedback from your guess to calculate the difficulty of remaining words.
+Welcome to the **Evil Wordle**, a program designed to make your Wordle experience as challenging as possible by choosing the hardest words for you to guess. This tool takes a list of potential secret words and your initial guess, and uses the feedback from your guess to calculate the difficulty of remaining words.
 
 ### Features
 
@@ -10,7 +10,7 @@ Welcome to the **Wordle Evilizer**, a program designed to make your Wordle exper
 
 ### Usage
 
-To use the **Wordle Evilizer**, follow these steps:
+To use the **EvilW Wordle**, follow these steps:
 
 1. Provide a list of secret words (a sample list is included in the repository).
 2. Input the user's first guess as a reference for word selection.
